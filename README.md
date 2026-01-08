@@ -41,16 +41,19 @@ Componentes principais:
 
 ## 📸 Demonstração
 
-> Em breve:
-- Prints do menu e carrossel de produtos
-- 
-- Exemplo da validação de CEP
-- 
-- Interação com o agente de IA
-- 
-- Fluxo do bot no Builder
+### Menu Principal
+![Menu Principal](assets/menu-principal.png)
+
+### Carrossel de Produtos
+![Carrossel](assets/carrossel-produtos.png)
+
+### Validação de CEP
+![Validação CEP](assets/validacao-cep.png)
+
+### Agente de IA
+![Agente IA](assets/agente-ia.png)
 
 ---
 
-## 📂 Estrutura (conceitual)
+
 
