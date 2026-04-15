@@ -4,6 +4,7 @@ Sistema completo de atendimento automatizado para uma hamburgueria, desenvolvido
 
 O chatbot centraliza pedidos, dúvidas e direcionamento de clientes, reduzindo o tempo de atendimento e aumentando a eficiência operacional.
 
+Link do case: <a href="https://digitalbot.chat.blip.ai/?appKey=cm91dGVyYnVyZ2VyZXhwcmVzc2Rldjo1ZmFhN2M5My1jYzEwLTQxMjAtODUyNC1lYmRmMTliOWUxNjg="> Burger Express</a>
 ---
 
 ## 🚀 Funcionalidades
